@@ -1,0 +1,11 @@
+﻿
+.companies {
+    list-style-type: none;
+    padding: 0;
+}
+
+*.companies li {
+    padding: 4px;
+}
+
+
